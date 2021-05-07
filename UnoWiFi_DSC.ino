@@ -30,7 +30,7 @@
    Cheap clone:  https://www.aliexpress.com/item/32820234165.html
 
    This board contains two microcontrollers: an ATmega328 (or "Arduino UNO") and an ESP8266.
-   It has 8 microswotches that have to be used in this way:
+   It has 8 microswitches that have to be used in this way:
    For programming the device:
       Switches 3 and 4 ON (all the others OFF) in order to connect the Arduino UNO via USB to the computer, to program it with this sketch.
       Switches 5, 6 and 7 ON (all the others OFF) in order to connect the ESP8266 via USB to the computer, to program it with this sketch.
